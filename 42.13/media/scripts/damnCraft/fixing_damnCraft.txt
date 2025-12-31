@@ -2,7 +2,7 @@ module Base
 {
     /************************ Tire Repair ************************/
 
-    craftRecipe damnCraft.RepairTire
+    craftRecipe RepairTire
 	{
         timedAction = Making,
         time = 100,
@@ -24,7 +24,7 @@ module Base
         }
 	}
 
-    craftRecipe damnCraft.RepairTwoTires
+    craftRecipe RepairTwoTires
 	{
         timedAction = Making,
         time = 100,
@@ -46,7 +46,7 @@ module Base
         }
 	}
 
-    craftRecipe damnCraft.RepairFourTires
+    craftRecipe RepairFourTires
 	{
         timedAction = Making,
         time = 100,
@@ -82,7 +82,7 @@ module Base
 
     /************************ Metal Repair ************************/
 
-    craftRecipe damnCraft.RepairMetal
+    craftRecipe RepairMetal
 	{
         timedAction = Welding,
         time = 100,
@@ -106,7 +106,7 @@ module Base
 
     /************************ Plastic Repair ************************/
 
-    craftRecipe damnCraft.RepairPlatic
+    craftRecipe RepairPlatic
 	{
         timedAction = Making,
         time = 100,
@@ -129,7 +129,7 @@ module Base
 
     /************************ Tarp Repair ************************/
 
-    craftRecipe damnCraft.RepairTarpSmall
+    craftRecipe RepairTarpSmall
 	{
         timedAction = Making,
         time = 100,
@@ -149,7 +149,7 @@ module Base
         }
 	}
 
-    craftRecipe damnCraft.RepairTarpLarge
+    craftRecipe RepairTarpLarge
 	{
         timedAction = Making,
         time = 100,
